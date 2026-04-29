@@ -38,7 +38,6 @@ A garrison of 1500 men has provisions for 12 days. How long will the provisions 
 200 men can build a building in 1024 days, then how many men will be required to build the same building in 256 days?
 7 men working 7 hours a day can pack 14 boxes in 6 days. How many days will it take for 14 men to pack 18 boxes if they work for 9 hours per day?
 7 experts and 5 trainees can complete a job in 9 days while 4 experts and 15 trainees can complete it in 12 days. How many days will 5 experts and 6 trainees need to complete the job?
-A can do a piece of work in 6 days and B in 9 days- How many days will both take together to complete the work?
 A and B together can do a piece of work in 10 days. A alone can do it in 30 days. The time in which B alone can do it is
 If 5 tractors can plough 5 hectares of land in 5 days, then what is the number of tractors required to plough 100 hectares in 50 days?
 X, Y and Z can complete a piece of work individually in 6 hours, 8 hours and 8 hours respectively. However, only one person at a time can work in each hour and nobody can work for two consecutive hours. All are engaged to finish the work. What is the minimum amount of time that they will take to finish the work?
@@ -150,12 +149,89 @@ Sanjay and Pooja can complete a piece of work together in 6 days. Sanjay alone c
 Fifteen men can complete a piece of work in 24 days. If 5 women can do the same amount of work as 4 men, then in how many days will 25 women complete the same work?
 X, Y and Z together can complete a piece of work in 6 days. Y alone can complete the same work in 24 days. Z is 50% more efficient than Y. In how many days can X and Z together complete the work?
 Rohit can complete a piece of work in 20 days. Rohit and Sameer together can  complete the same work in 8 days. They start working together, but after 4 days  Rohit leaves. The remaining work is completed by Sameer and Tarun in 5 days. Tarun’s efficiency is what percent less than Rohit’s efficiency?
+Rahul can complete a piece of work in 15 days, while Neha can finish the same job in 45 days. What is the ratio of Rahul’s efficiency to Neha’s efficiency?
+Vinay, Pooja, and Kunal can do a task in 6, 12, and 4 days respectively. What is the ratio of their efficiencies?
+Yash can do a task in 4 days, Kavita in 12 days, and Pankaj in 6 days. How many days will they need if they all work together?
+Dinesh can do a job in 24 days, Kunal can do it in 48 days, and with a third person Raghav they finish in 8 days. How many days does Raghav alone take?
+Amar and Bharat together can complete a piece of work in 18 days, Bharat and Chirag together in 24 days, and Amar and Chirag together in 36 days. In how many days can all three working together finish the work?
+Deepti needs 6 more days than Shreya to do a job. Together they can complete it in 4 days. How many days would Deepti alone require?
+Rohan can do a job in 12 days, while Savita can do it in 6 days. How many days will they need if they work together?
+Saurabh, Ira, and Kunal together can do a job in 12 days, while Ira and Kunal together finish it in 18 days. In how many days can Saurabh alone complete it?
+Akash can finish a certain work in 6 days. Sandeep’s efficiency is 60% of Akash’s efficiency. How many days will Sandeep alone need to complete the same work?
+Pranav can complete a project in 40 days. If he works at 80% of his full efficiency, in how many days can he finish 50% of the job?
+Sanjana can finish a job in 20 days, Rahul in 10 days, and Mitali in 5 days. What is the ratio of their efficiencies?
+Two workers, Amit and Suraj, complete a piece of work in 10 days. If Amit alone takes 15 days, in how many days can Suraj alone finish it?
+Harsh, Megha, and Deepa can do a job in 2, 3, and 6 days respectively. In how many days will they complete it working together?
+Nikhil and Piyush can complete a job in 10 days, Piyush and Rohit can do it in 12 days, and Nikhil and Rohit can finish it in 15 days. In how many days can Nikhil alone finish the work?
+The ratio of efficiency of Rakesh to Manish is 1 : 5. If the difference between the time they take to do the job individually is 24 hours, how many hours would Manish alone require to finish the entire work?
+Neha takes 10 more days than Mohan, and Mohan takes same time as Kiran to finish the same job. If all three together can do it in 4 days, how many days does Mohan need alone?
+13 men can complete a task in 8 days, while 16 women take 12 days for the same job. What is the efficiency ratio of a man to a woman?
+The time needed by 14 men to complete a certain project is exactly equal to the time required by 28 women to do the same work. The efficiency of women is what percentage less/more than that of a man?
+24 men can finish a project in 12 days. Each woman is three times as efficient as a man. How many days will it take for 3 men and 5 women to finish it?
+5 men, 8 women, and 10 children complete a job in 4, 5, and 8 days respectively. In how many days will 2 men, 2 women, and 4 children complete the task?
+The efficiency ratio of Kunal, Lakshman, and Pooja is 1 : 4 : 5. If Kunal and Lakshman together finish a job in 18 days, how many days would Lakshman and Pooja together take?
+A man can finish a task alone in 30 days. A woman can finish the same task in 60 days. If 3 men and 4 women work together, how many days will they take to finish the task?
+Five men complete a job in 10 days, eight women in 15 days, and ten children in 20 days. How many days will 1 man, 1 woman, and 1 child take to do the same work?
+Six men can do a task in 6 days, while twelve women can do it in 12 days. If 2 men and 4 women work together, how many days will they take?
+6 men and 8 women complete a task in 20 days. 12 men and 10 women finish it in 12 days. In how many days will 1 man and 1 woman complete the task?
+Tina alone can do a piece of work in 12 days and Meena alone can do the same work in 15 days. If Tina and Meena undertook to do this work for Rs. 18,000, then how much amount will Meena get, if they work together?
+Karan can finish a piece of work in 12 days. Karan and Mahesh together can complete it in 8 days. If the total payment is Rs. 600, find Mahesh’s share.
+Arjun can do a certain job in 18 days. Arjun and Bhavesh together finish it in 12 days, while Arjun, Bhavesh, and Chandan together can do it in 8 days. If the total payment is Rs. 9000, how much does Bhavesh get?
+Mohit and Rohit undertook a work for ₹4400. Mohit alone can do that work in 10 days and Rohit alone can do the same work in 15 days. If they work together, then what will be the difference in the amount they receive?
+Arjun and Ravi can finish a task in 8 days. Ravi and Suraj can finish it in 12 days. Arjun and Suraj can finish it in 16 days. Assuming all three work at constant individual rates, what is the ratio of Ravi’s efficiency to Suraj’s efficiency?
+Raj and Vijay can complete a certain job in 12 days, Vijay and Mohan can finish it in 15 days, and Raj and Mohan can do it in 20 days. In how many days can all three together complete the work?
+Tanmay, Yogesh, and Dhruv can together finish a job in 15 days. Tanmay’s efficiency is twice that of Yogesh, and Dhruv’s efficiency is one-third of the combined efficiency of Tanmay and Yogesh. In how many days can Yogesh alone finish this job?
+Arjun can complete a job in 30 days, and Arjun with Bhaskar can finish the same job in 12 days. If Chetan is 25% more efficient than Arjun, in how many days will Arjun, Bhaskar, and Chetan finish the work together?
+Diksha and Nikhil can jointly finish a task in 4 days. Diksha takes 2 days more than Pooja, while Nikhil needs 8 days more than Pooja to do it alone. How long will it take if all three work together?
+Eight men can finish a job in 12 days. Twelve children take 16 days for the same job. If 1 man and 1 child work together, in how many days will they complete the task?
+Priya is 25% less efficient than Neha. If they work together and complete the job in 36 days, how many days would Priya alone take to finish it?
+Raghav is 40% less efficient than Neel, while Sohan is 66.67% less efficient than Raghav. If Neel can finish 33.33% of a job in 6 hours, how many hours will all three together need to finish the entire job?
+4 men and 8 children complete a task in 15 days. 9 men and 1 child finish it in 12 days. In how many days can 2 men and 3 children do the same work?
+Harish, Kunal, and Laxman can finish a project alone in 5k, 6k, and 4k days respectively. If the total payment for the project is Rs. 37,000, how much does Laxman receive?
+Priya is 40% less efficient than Nisha. Working together they finish a work in 27 days. How many days would Priya alone require to complete it?
+Dinesh and Farhan together can do a job in 12 days, Farhan and Gaurav together in 20 days, and Dinesh and Gaurav together in 15 days. How many days will Dinesh alone take to finish it?
+Vijay alone can finish a work in 36 days. Vijay and Rohan together can finish it in 15 days. Sagar is 20% more efficient than Vijay. How many days will Vijay, Rohan, and Sagar working together take to complete the work?
+The ratio of efficiency of Karan to Lakshmi to Pooja is 2:5:8. If Karan and Lakshmi together takes 26 days to finish the work, then in how many days will Lakshmi and Pooja together can complete the work?
+The time needed by 10 men to complete a project equals the time required by 20 women to do the same work. The efficiency of a woman is what percentage less than that of a man?
+Lata takes 8 days more than Mohan to complete a work, and Mohan takes exactly the same time as Kiran. If all three together can do the job in 6 days, then in how many days does Mohan need alone?
+A, B and C can complete a work in 10, 12 and 15 days respectively. They started the work together. But A left the work before 5 days of its completion. B also left work 2 days after A left. In how many days was the work completed?
+If 10 men or 20 boys can make 260 mats in 20 days, then how many mats will be made by 8 men and 4 boys in 20 days?
+A particular job can be completed by a team of 10 men in 12 days. The same job can be completed by a team of 10 women in 6 days. How many days are needed to complete the job if the two teams work together?
+A can finish a work in 18 days and B can do the same work in half the time taken by A. Then working together, what part of the same work can they finish in a day?
+A and B can do a piece of work in 28 and 35 days respectively. They began to work together but A left after sometime and B completed the remaining work in 17 days. After how many days did A leave?
+If 72 men can build a wall of 280 m length in 21 days, how many men could take 18 days to build a similar type of wall of length 100 m?
+A can do a certain work in the same time in which B and C together can do it. If A and B together could do it in 10 days and C alone in 50 days, then B alone could do the work in:
+A and B can complete a work in 15 days and 10 days respectively. They started doing the work together but after 2 days, B had to leave and A alone completed the remaining work. The whole work was completed in:
+A and B can do a piece of work in 20 days and 12 days respectively. A started the work alone and then after 4 days B joined him till the completion of the work. How long did the work last?
+5 persons can prepare an admission list in 8 days working 7 hours a day. If 2 persons join them so as to complete the work in 4 days, how many hours they need to work?
+A man and a boy can complete a work together in 24 days. If for the last six days a boy alone does the work then it is completed in 28 days. How long will the man take to complete the work alone?
+A and B together can complete a work in 8 days, B alone can complete that work in 12 days. B alone worked for four days. After that how long will A alone take to complete the work?
+Two persons can complete a piece of work in 9 days. How many more people are needed to complete double the work in 12 days?
+60 men could complete a work in 250 days. They worked together for 200 days. After that the work had to be stopped for 10 days due to bad weather. How many more men should be engaged to complete the work in time?
+Amit can finish a work in 9 days. Efficiency of Bhanu is 60% of efficiency of Amit. How many days will Bhanu alone need to complete the same work?
+A and B alone can complete work in 9 days and 18 days respectively. They worked together, however, 3 days before the completion of the work A left. In how many days was the work completed?
+If 28 men complete 7/8 of a piece of work in a week, then the number of men, who must be engaged to get the remaining work completed in another week, is:
+2 men and a woman together can complete a piece of work in 14 days, while 4 women and 2 men together can do it in 8 days. If a man gets ₹600 per day, how much should a woman get per day?
+Three workers, 'X', 'Y', and 'Z', working together can complete a in 12 days. X's efficiency is thrice of that of Y's, and Y's efficiency is twice of that of 'Z'. If 'Z' works alone for 12 days and then 'X' alone completes the remaining work, then how many additional days will 'X' and 'Y' together need to complete the remaining work?
+If two persons, with equal abilities, can do two jobs in two days then 100 persons with equal abilities can do 100 similar jobs in:
+Rakesh and Reema can complete a job in 9 days and 21 days respectively. When Vikrant joins them, all three finish the work in 3 days. If they are paid a total of Rs. 21,000, how much does Vikrant get?
+A and B working separately can do a piece of work in 9 and 12 days respectively. If they work for a day alternately with A beginning, the work would be completed in:
+A father and his son together complete a job in 12 days for Rs. 9000. The father is 50% more efficient than the son. What is the difference between their daily wages?
+Sonia can complete a project in 40 days. If she works at 80% of her full efficiency, then in how many days can she finish 60% of the project?
+Sonal can complete a job in 8 days, while Tisha needs 20 days. When Utkarsh joins them, all three finish the work in 4 days. If they receive Rs. 24000 in total, then how much does Utkarsh received?
+Anita and Kiran working together can finish a work in 48 days. Kiran alone can finish 20% of the work in 12 days. How many days would Anita alone need to complete 20% of the work?
+'A' and 'B' working together, takes 13.2 days to complete the work. 'A' and 'C' working together takes 22 days to complete the same work. If 'C' alone takes 66 days to complete the work, then find the time taken by 'B' alone to complete the work.
+Kamal can do a piece of work in 18 days and Kamlesh can do the same work in 36 days. They started the work and after 6 days Sunil joined them, who can complete the same whole work in 6 days. What is the total number of days in which they had completed the work?
+Ram and Shyam can complete a work in 20 and 25 days respectively, after working together for 8 days Shyam gets an injury, so he can work with only 50 percent of his efficiency. If both of them work together till the end of the work, then find the number of days taken by them to complete the whole work. 
+A contractor employed 69 workers to complete a work in 20 days. How many more workers should he hire to complete the work in 12days. 
 
-
-
-
-
-
+Anil and Bipin together can complete a work in 15days, while bipin can complete it in 20days. In how many days can anil alone complete this work.
+12 men working 8 hours a day, takes 15 days to complete the work. 10 men working at 120% of their efficiency, working 12 hours a day are assigned to complete twice of the work. Find the number of days in which work is completed.
+Anil, Bhavesh, and Chetan together can complete a work in 18 days. Efficiency of Anil is 1.5 times of that of Bhavesh, and Efficiency of Chetan is 20% of the combined efficiency of Anil and Bhavesh. In how many days can Bhavesh alone finish the work?
+The ratio of efficiency of Kavish to that of Mohit is 2:7. The difference between the time they take individually to complete a work is 25 hours. How many hours would Mohit alone need to finish the work?
+Pradip is twice as efficient as Sandeep in completing a work. Working together they can complete the work in 28days. In how many days can Pradeep alone can complete the work. 
+Working alone, 'A' takes 8 days to complete a work. 'B' and 'C' working together, takes 7.5 days to complete the same work. Efficiency of 'A' is 50% more than that of 'B'. Find the time taken by 'A' and 'C' together to complete 40% more work.
+Working alone, 'A', 'B', and 'C' can complete a task in 8 days, 12 days, and 6 days, respectively. 'A' starts the work alone and works for 2 days. Afterward, 'A' leaves, and 'B' and 'C' continue the work together. Realizing that if they continue, the work will be completed in 2 more days, 'B' leaves, and 'C' finishes the remaining work alone. Find the total time taken to complete the work.
 
 
 
@@ -171,9 +247,7 @@ Arjun spends 6 days more than Bhavesh to complete a piece of work. Working as a 
 
 
 
-Rakesh and Reema can complete a job in 9 days and 21 days respectively. When Vikrant joins them, all three finish the work in 3 days. If they are paid a total of Rs. 21,000, how much does Vikrant get?
-A father and his son together complete a job in 12 days for Rs. 9000. The father is 50% more efficient than the son. What is the difference between their daily wages?
-Pooja, Tarun, and Rahul can jointly complete a piece of work in one day if they all work together. In one day, Pooja and Tarun finish 13/15 of the task, while Tarun and Rahul finish 11/20 of it. If the difference between Pooja’s wage and Rahul’s wage is Rs. 9500, find the total of Pooja’s and Rahul’s wages.
+
 
 Six women and ten girls earn Rs. 20,500 in 5 days. Meanwhile, nine women and fourteen girls earn Rs. 24,400 in 4 days. How much will eight women and nine girls earn in 6 days?
 Four men and six women together are paid Rs. 1700 for completing a certain assignment in 5 days. Meanwhile, three men and seven women receive Rs. 1980 for finishing the same assignment in 6 days. In how many days will seven men and six women complete that assignment if their total pay is Rs. 3680?
@@ -184,11 +258,10 @@ Priya and Kunal can finish a job in 36 days if they work together. Kunal alone c
 
 Pooja and Qasim together can finish a work in 9 days, Qasim and Rina together in 15 days, and Pooja and Rina together in 18 days. What is the ratio of Qasim's efficiency to Rina's efficiency?
 Amit can finish a work in 9 days. Efficiency of Bhanu is 60% of efficiency of Amit. How many days will Bhanu alone need to complete the same work?
-Sonia can complete a project in 40 days. If she works at 80% of her full efficiency, then in how many days can she finish 60% of the project?
 
-The ratio of efficiency of Kavish to that of Mohit is 2:7. The difference between the time they take individually to complete a work is 25 hours. How many hours would Mohit alone need to finish the work?
+
 Neel is 33.33% more efficient than Raghav, while Sohan is 50% less efficient than Raghav. If Neel can finish one-third of a work in 6 hours, then in how many hours will Raghav and Sohan together can complete the complete work?
-Anil, Bhavesh, and Chetan together can complete a work in 18 days. Efficiency of Anil is 1.5 times of that of Bhavesh, and Efficiency of Chetan is 20% of the combined efficiency of Anil and Bhavesh. In how many days can Bhavesh alone finish the work?
+
 
 
 Aditya spends 21 days more than Bhavin to finish a piece of work. Working together, they complete the work in 10 days. Aditya's efficiency is what percent more or less than that of Bhavin's?
@@ -207,35 +280,31 @@ Five men complete a work in 12 days, eight women in 18 days, and ten children in
 Six men, nine women, and twelve children can complete a work in 10 days, 30 days, and 45 days, respectively. In how many days will 3 men, 3 women, and 3 children, working together can finish the same work?
 Ravi can finish a piece of work in 15 days. Ravi and Mohan together can finish it in 10 days. If the total payment is Rs. 720, find Mohan's share.
 Working alone, Aman, Bharat, and Charan can complete a work in '7p', '8p', and '6p' days, respectively. They all work together to complete the work. If they received a total payment of Rs. 73000, then how much does Charan receive?
-Sonal can complete a job in 8 days, while Tisha needs 20 days. When Utkarsh joins them, all three finish the work in 4 days. If they receive Rs. 24000 in total, then how much does Utkarsh received?
 A father and his daughter together finish a work in 10 days for Rs. 8000. The father is 50% more efficient than the daughter. What is the difference between their daily wages?
 Rita, Suman, and Tejas together can complete a work in one day. In one day, Rita and Suman together can complete (7/10)th of the job, while Suman and Tejas together can complete (2/5)th of it. If Rita's wage exceeds that of Tejas's by Rs. 12000, then find the sum of share of Rita's and Tejas's wages. 
 Aryan can complete a certain work in 20 days. Aryan and Bhavya together can finish it in 12 days. Aryan, Bhavya, and Chavi are assigned to complete the work and they take 6 days to finish the work. If the total payment received by all three is Rs. 12600, then find the share of Bhavya.
 Five women and nine girls earn Rs. 19800 in 6 days. Eight women and twelve girls earn Rs. 24000 in 5 days. How much will seven women and eight girls earn in 6 days?
 Three men and five women together are paid Rs. 1200 for completing a certain assignment in 4 days. Four men and six women receive Rs. 1900 for finishing the assignment in 5 days. In how many days will six men and four women complete that assignment if their total pay is Rs. 2100?
 Rohan can finish 80% of a work in 24 days, while Sahil can finish 60% of the same work in 12 days. If both begin working together, then in how many days will it take them to complete 50% of the work?
-Anita and Kiran working together can finish a work in 48 days. Kiran alone can finish 20% of the work in 12 days. How many days would Anita alone need to complete 20% of the work?
 Six men and twelve women complete a work in 18 days. Ten men and twenty women can finish it in 12 days. In how many days will one man and one woman complete the work?
 Four men and six children can finish a work in 10 days. Six men and two children can finish the same work in 9 days. How many days will 2 men and 3 children take to complete the work?
 Neha can finish 70% of a work in 14 days, while Om can finish 56% of the same work in 8 days. If they work together from the start, then in how many days will they need to complete 60% of the work?
 A father and his son together complete a work in 10 days for Rs. 12000. The father is 100% more efficient than the son. What is the difference between their daily wages?
 Meena, Arjun, and Divya can together complete a work in 1 day. Meena and Arjun together can complete $(16/21)$ of the work in a day, and Arjun and Divya together (11/14) of it in a day. If the difference between Meena's and Divya's wages is Rs. 9100, then what is the total of their wages?
-Working alone, 'A', 'B', and 'C' can complete a task in 8 days, 12 days, and 6 days, respectively. 'A' starts the work alone and works for 2 days. Afterward, 'A' leaves, and 'B' and 'C' continue the work together. Realizing that if they continue, the work will be completed in 2 more days, 'B' leaves, and 'C' finishes the remaining work alone. Find the total time taken to complete the work.
+
 9 men takes 12 days to complete a work, while 6 women takes 30 days to complete the same work. 12 men starts the work and works for 4 days, after which they all leave and 4 women joins to complete the remaining work. If total wage given to complete the work is Rs. 27,000, then find the wage received by each woman.
-Working alone, 'A' takes 8 days to complete a work. 'B' and 'C' working together, takes 7.5 days to complete the same work. Efficiency of 'A' is 50% more than that of 'B'. Find the time taken by 'A' and 'C' together to complete 40% more work.
+
 'A' and 'B' working together takes 12 days to complete a work. If efficiency of 'B' is reduced by one-third and 'A' works at its original efficiency, then 'A' and 'B' working together will now take 14 days to complete the same work. Find the time taken by 'B' alone to complete the work.
-'A' and 'B' working together, takes 13.2 days to complete the work. 'A' and 'C' working together takes 22 days to complete the same work. If 'C' alone takes 66 days to complete the work, then find the time taken by 'B' alone to complete the work.
 Working alone at 30% of its efficiency, 'A' can complete a work in $(x+20)$ days, while 'B' working at 60% of its efficiency takes $(x-10)$ days to finish the work. If 'A' and 'B' working together, takes $(40/3)$ days to complete the work, then find the time taken by 'B' alone to complete the work.
 6 men and 10 women can complete a work in 10 days, while 9 men and 3 women can complete the same work in 12 days. Find the time taken by 15 men to complete the work.
 Working alone, 'A' takes 15 days to complete a work. 'A' starts the work and works for 6 days, after which he was joined by 'B'. Working together they complete the remaining work in 4 days. Find the time taken by 'B' alone to complete the work.
-12 men working 8 hours a day, takes 15 days to complete the work. 10 men working at 120% of their efficiency, working 12 hours a day are assigned to complete twice of the work. Find the number of days in which work is completed.
 
 
-Anil and Bipin together can complete a work in 15days, while bipin can complete it in 20days. In how many days can anil alone complete this work. 
+ 
 A, B & C can complete a work in 10days, 15days and 20days. Together they completed the work and received Rs.2600 as wage. What is the wage of C. 
 Amit and Bipin can complete a project in 9days, Bipin and Chandan can complete the same project in 12days while Chandan and Amit can also complete the project in 18days. Find in how many days the project will be completed if Amit, Bipin and Chandan work together. 
 A can complete a work in 24days, B alone can complete the same work in 30days. Together they worked for 11days. What % of work is left. 
-Pradip is twice as efficient as Sandeep in completing a work. Working together they can complete the work in 28days. In how many days can Pradeep alone can complete the work. 
+
 A can do a piece of work in 8days, while B can do the same work in 18days. Starting from B, if both of them work one by one every day, then in how many days will the work be completed. 
 A, B & C can complete a work in 20, 30 and 60 days respectively. If B and C both help A every third day, then in how many days will the work is completed. 
 Amit and Aman can do a work in 10days and 15days respectively. They started the work together, but Amit left the work 5 days before its completion. In how many days was the work completed. 
@@ -245,8 +314,5 @@ A, B and C can do a work separately in 16, 32 and 48days respectively. They star
 20 men can complete a work in 40days and 40 women can complete the same work in 60days. If 10 men and 20 women worked together, in how many days will the work be completed. 
 3 men or 5 women can do a work in 57 days. In how many days can 9men and 4 women complete the same work. 
 15 boys can complete a work in 28days, then in how many days 21boys can complete the same work. 
-A contractor employed 69 workers to complete a work in 20 days. How many more workers should he hire to complete the work in 12days. 
 16 men can paint 15 walls in 45days. In how many days can 20 men will paint 20 walls. 
 30 men can complete a job in 40days. However after 24days some men out of the assigned 30men left the job. The remaining people took another 40 days to complete the job. The number of men left the job is. 
-Ram and Shyam can complete a work in 20 and 25 days respectively, after working together for 8 days Shyam gets an injury, so he can work with only 50 percent of his efficiency. If both of them work together till the end of the work, then find the number of days taken by them to complete the whole work. 
-Kamal can do a piece of work in 18 days and Kamlesh can do the same work in 36 days. They started the work and after 6 days Sunil joined them, who can complete the same whole work in 6 days. What is the total number of days in which they had completed the work?
